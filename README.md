@@ -11,9 +11,16 @@ TensorFlow/Keras, and deployed as a live web app with Streamlit.
 
 | Name | Registration Number | GitHub Username |
 |---|---|---|
-| _fill in_ | _fill in_ | _fill in_ |
-| _fill in_ | _fill in_ | _fill in_ |
-| _fill in_ | _fill in_ | _fill in_ |
+| PRECIOUS EFFIONG OKPO | 23/EG/AE/004 | Precious-Okpo-23-004 |
+| PRINCE JOSHUA | 22/EG/AE/804 | Prince Joshua 804 |
+| UKPE, IFIOK IME | 22/EG/AE/834 | ifiokukpe034-web |
+| ABEL ETIM EDET | 22/EG/AE/794 | abeledet756-max |
+| ENUBELE FAVOUR MONDAY | 22/EG/AE/814 | enubele |
+| BARTHOLOMEW, PATRICK STANLEY | 23/EG/AE/034  | Bartholomew Patrick-034 |
+| NSIKAK SUNDAY OKON | 22/EG/AE/824 | okonnsikak824 |
+| OKON, DAVID SUNDAY | 23/EG/AE/014 | Icekid07 |
+| MONDAY SUCCESS EDEM | 23/EG/AE/024 | Monday-Success-23-024 |
+| OKON, INYENE EDEM | 22/EG/AE/784 | okoninyene2002 |
 
 ## Project Structure
 
