@@ -12,7 +12,7 @@ TensorFlow/Keras, and deployed as a live web app with Streamlit.
 | Name | Registration Number | GitHub Username |
 |---|---|---|
 | PRECIOUS EFFIONG OKPO | 23/EG/AE/004 | Precious-Okpo-23-004 |
-| PRINCE JOSHUA | 22/EG/AE/804 | Prince Joshua 804 |
+| PRINCE JOSHUA | 22/EG/AE/804 | PrinceJoshua804 |
 | UKPE, IFIOK IME | 22/EG/AE/834 | ifiokukpe034-web |
 | ABEL ETIM EDET | 22/EG/AE/794 | abeledet756-max |
 | ENUBELE FAVOUR MONDAY | 22/EG/AE/814 | enubele |
